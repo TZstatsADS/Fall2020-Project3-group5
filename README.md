@@ -8,11 +8,12 @@ Term: Fall 2020
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ 1. Han, Xiangning xh2443@columbia.edu
+	+ 2. Liang, Rui rl2886@columbia.edu
+	+ 3. Segal, Yotam ys3114@columbia.edu
+	+ 4. Sun, Xiaoli xs2338@columbia.edu
+	+ 5. Wang, Shuyuan sw3449@columbia.edu
+	+ 6. Zhang, Xinyi xz2862@columbia.edu
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. 
 	
