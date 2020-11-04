@@ -6,7 +6,7 @@
 
 Term: Fall 2020
 
-+ Team ##
++ Team 5
 + Team members
 	+ Han, Xiangning xh2443@columbia.edu
 	+ Liang, Rui rl2886@columbia.edu
