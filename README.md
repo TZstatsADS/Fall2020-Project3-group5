@@ -15,7 +15,9 @@ Term: Fall 2020
 	+ Wang, Shuyuan sw3449@columbia.edu
 	+ Zhang, Xinyi xz2862@columbia.edu
 
-+ Project summary: In this project, we created a classification engine for facial emotion recognition. We tested various 
++ Project summary: In this project, we created a classification engine for facial emotion recognition. We tested various models including: baseline Baseline Model (GBT), XGBoost, Random Forest, SVM, NN, CNN, VGG16（Transfer Learning), logistic (starter code), PCA+LDA and KNN. 
+
+We decided that NN preforms best, even though we expected CNN to be the most appropriate model. Finally, we were able to improve the baseline model’s performance in all parameters (accuracy, AUC).
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
